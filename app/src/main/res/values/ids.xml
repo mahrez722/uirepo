@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnRefresh" type="id" />
+    <item name="webView" type="id" />
+    <item name="textC" type="id" />
+    <item name="imageViewNoInternet" type="id" />
+</resources>
